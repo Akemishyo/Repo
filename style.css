@@ -1,0 +1,11 @@
+body {
+	font-family: Arial, Verdana, sans-serif;}
+	header, h1, h2 {
+	color: #ee3e80;
+	}
+	p{
+	color: #665544;
+	}
+	div {
+    padding: 20px 20px 20px 20px;
+}
